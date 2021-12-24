@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FanStikeProject](localhost)**
+- 🔭 I’m currently working on **[FanStikeProject](https://discord.gg/ZA9tcQUh6f)**
 
 - 🌱 I’m currently learning **New programming languages.**
 
