@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **[FanStikeProject](localhost)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **New programming languages.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](localhost)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **TheTerminators#8441**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games**
 
 ## 🚀 Languages and Tools:
 
