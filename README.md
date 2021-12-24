@@ -1,4 +1,4 @@
-                                                      Hi!👋 Welcome to my profile. ✨
+                                                       𝗛𝗶!👋 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲. ✨
 
                                                     My name is Lorenzo, I'm developer from Italy.
 
