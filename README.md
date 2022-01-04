@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](localhost)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)**
 
 - 📫 How to reach me **TheTerminators#8441**
 
