@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)**
 
-- 📫 How to reach me **TheTerminators#8441**
+- 📫 How to reach me **! Loremente#8250**
 
 - ⚡ Fun fact **I play games**
 
