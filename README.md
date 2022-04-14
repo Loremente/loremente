@@ -6,11 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FanStikeProject](https://discord.gg/ecUF3sqtUs)**
+- 🔭 I’m currently working on **[Coming soon...](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)**
 
 - 🌱 I’m currently learning **New programming languages.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)**
 
