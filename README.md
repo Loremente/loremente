@@ -14,9 +14,6 @@
 
 - ⚡ Fun fact **I play games**
 
-<h2 align="center"> What i've worked on</h2>
-**[VenomCraft](https://discord.io/venomcraft)**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
