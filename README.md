@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **New programming languages.**
 
-- 📫 How to reach me **! Loremente#8250**
+- 📫 How to reach me **! Loremente#8441**
 
 - ⚡ Fun fact **I play games**
 
