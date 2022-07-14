@@ -39,4 +39,4 @@
 <a href = "https://www.youtube.com/channel/UCKXtfux5e0gch4s0umFwfuQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-2/685449886422138884.png" /> </p>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-2/872194054794924062.png" /> </p>
