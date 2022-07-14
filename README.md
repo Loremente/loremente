@@ -35,7 +35,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://twitter.com/Loremente"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://dev.to/vincenzopio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Loremente" height="30" width="40" /></a>
+<a href="https://dev.to/Loremente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Loremente" height="30" width="40" /></a>
 
 </p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/872194054794924062.png" /> </p>
